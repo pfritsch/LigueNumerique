@@ -1,0 +1,20 @@
+{
+	"member": [
+		{
+			"picture": "https://avatars1.githubusercontent.com/u/2621526?s=400&u=ff8ca868f6a56f2078fc1587f491934e80e0c48f&v=4",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "555-123-4567"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "leaverou@mit.edu"
+				}
+			]
+		}
+	],
+	"@context": "http://schema.org/"
+}
