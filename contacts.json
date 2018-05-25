@@ -10,11 +10,11 @@
 			],
 			"emailAddress": [
 				{
-					"name": "pierre@impact-positif.fr"
+					"name": "pierre@impact-positif.fr",
+					"email": "pierre@impact-positif.fr"
 				}
 			],
-			"name": "Pierre Fritsch",
-			"url": "http://fritschpierre.com"
+			"name": "Pierre Fritsch"
 		}
 	],
 	"@context": "http://schema.org/"
