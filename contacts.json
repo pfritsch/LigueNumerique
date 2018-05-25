@@ -15,17 +15,6 @@
 			],
 			"name": "Pierre Fritsch",
 			"url": "http://fritschpierre.com"
-		},
-		{
-			"name": "Prénom Nom",
-			"phoneNumber": [
-				{}
-			],
-			"emailAddress": [
-				{
-					"name": "mon email"
-				}
-			]
 		}
 	],
 	"@context": "http://schema.org/"
