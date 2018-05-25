@@ -1,0 +1,10 @@
+.member-list {
+    background: #e8e8e8;
+    padding: 24px;
+}
+
+.portrait {
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+}
