@@ -16,15 +16,6 @@
 			],
 			"name": "Pierre Fritsch",
 			"url": "http://www.impact-positif.fr/"
-		},
-		{
-			"name": "Prénom Nom",
-			"phoneNumber": [
-				{}
-			],
-			"emailAddress": [
-				{}
-			]
 		}
 	],
 	"@context": "http://schema.org/"
