@@ -15,7 +15,16 @@
 				}
 			],
 			"name": "Pierre Fritsch",
-			"url": "http://fritschpierre.com/"
+			"url": "http://impact-positif.fr/"
+		},
+		{
+			"name": "Prénom Nom",
+			"phoneNumber": [
+				{}
+			],
+			"emailAddress": [
+				{}
+			]
 		}
 	],
 	"@context": "http://schema.org/"
