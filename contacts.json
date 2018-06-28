@@ -28,7 +28,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://madgebel.github.io/"
+			"url": "https://madgebel.github.io/",
+			"picture": "https://madgebel.github.io/img/kimy05.jpg"
 		},
 		{
 			"name": "Emmanuel Jud",
@@ -38,7 +39,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://emjud.github.io/"
+			"url": "https://emjud.github.io/",
+			"picture": "https://emjud.github.io/img/emmanuelv6.jpg"
 		},
 		{
 			"name": "Jordan Lat",
@@ -48,7 +50,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://jordanlat.github.io/"
+			"url": "https://jordanlat.github.io/",
+			"picture": "https://jordanlat.github.io/img/finalskyddatr.png"
 		},
 		{
 			"name": "Alain Lepine",
@@ -58,7 +61,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://lepine-alain.github.io/"
+			"url": "https://lepine-alain.github.io/",
+			"picture": "https://lepine-alain.github.io/img/alain-v.jpg"
 		},
 		{
 			"name": "Joël Lin",
@@ -68,7 +72,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://saitokojiro.github.io/"
+			"url": "https://saitokojiro.github.io/",
+			"picture": "https://saitokojiro.github.io/img/saitokojiro1.jpg"
 		},
 		{
 			"name": "Johanna Merkling",
@@ -78,7 +83,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://johannamerkling.github.io/"
+			"url": "https://johannamerkling.github.io/",
+			"picture": "https://johannamerkling.github.io/img/ookami-05.jpg"
 		},
 		{
 			"name": "Thomas Michalusko",
@@ -88,7 +94,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://tmichaluszko.github.io/"
+			"url": "https://tmichaluszko.github.io/",
+			"picture": "https://tmichaluszko.github.io/img/thomas02.jpg"
 		},
 		{
 			"name": "Marion Röderer",
@@ -98,7 +105,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://roderermarion.github.io/"
+			"url": "https://roderermarion.github.io/",
+			"picture": "https://roderermarion.github.io/img/marion3.jpg"
 		},
 		{
 			"name": "Sarah Smaalah",
@@ -108,7 +116,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://sarahsmallah.github.io/"
+			"url": "https://sarahsmallah.github.io/",
+			"picture": "https://sarahsmallah.github.io/img/photo03.jpg"
 		},
 		{
 			"name": "Anthony Sonntag",
@@ -118,7 +127,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://anthony-epdlp.github.io/"
+			"url": "https://anthony-epdlp.github.io/",
+			"picture": "https://anthony-epdlp.github.io/img/anthony06.jpg"
 		},
 		{
 			"name": "Gaëlle Vincent",
@@ -128,7 +138,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://gaellevcnt.github.io/"
+			"url": "https://gaellevcnt.github.io/",
+			"picture": "https://gaellevcnt.github.io/img/omega-new-v4.jpg"
 		},
 		{
 			"name": "Déborah Wittner",
@@ -138,7 +149,8 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "https://chickenstarr.github.io/"
+			"url": "https://chickenstarr.github.io/",
+			"picture": "https://chickenstarr.github.io/img/deborah05.jpg"
 		}
 	]
 }
