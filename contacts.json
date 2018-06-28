@@ -58,7 +58,7 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "lepine-alain.github.io"
+			"url": "https://lepine-alain.github.io/"
 		},
 		{
 			"name": "Joël Lin",
@@ -68,7 +68,7 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "saitokojiro.github.io"
+			"url": "https://saitokojiro.github.io/"
 		},
 		{
 			"name": "Johanna Merkling",
@@ -78,7 +78,7 @@
 			"emailAddress": [
 				{}
 			],
-			"url": "johannamerkling.github.io"
+			"url": "https://johannamerkling.github.io/"
 		},
 		{
 			"name": "Thomas Michalusko",
@@ -87,7 +87,8 @@
 			],
 			"emailAddress": [
 				{}
-			]
+			],
+			"url": "https://tmichaluszko.github.io/"
 		},
 		{
 			"name": "Marion Röderer",
@@ -96,7 +97,8 @@
 			],
 			"emailAddress": [
 				{}
-			]
+			],
+			"url": "https://roderermarion.github.io/"
 		},
 		{
 			"name": "Sarah Smaalah",
@@ -105,7 +107,8 @@
 			],
 			"emailAddress": [
 				{}
-			]
+			],
+			"url": "https://sarahsmallah.github.io/"
 		},
 		{
 			"name": "Anthony Sonntag",
@@ -114,7 +117,8 @@
 			],
 			"emailAddress": [
 				{}
-			]
+			],
+			"url": "https://anthony-epdlp.github.io/"
 		},
 		{
 			"name": "Gaëlle Vincent",
@@ -123,7 +127,8 @@
 			],
 			"emailAddress": [
 				{}
-			]
+			],
+			"url": "https://gaellevcnt.github.io/"
 		},
 		{
 			"name": "Déborah Wittner",
@@ -132,7 +137,8 @@
 			],
 			"emailAddress": [
 				{}
-			]
+			],
+			"url": "https://chickenstarr.github.io/"
 		}
 	]
 }
