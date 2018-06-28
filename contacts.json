@@ -19,5 +19,21 @@
 		}
 	],
 	"@context": "http://schema.org/",
-	"student": []
+	"student": [
+		{
+			"name": "Prénom Nom",
+			"phoneNumber": [
+				{
+					"telephone": null
+				}
+			],
+			"emailAddress": [
+				{
+					"email": null
+				}
+			],
+			"picture": null,
+			"url": null
+		}
+	]
 }
