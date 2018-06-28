@@ -21,13 +21,28 @@
 	"@context": "http://schema.org/",
 	"student": [
 		{
-			"name": "Madisson Geb",
+			"name": "Madisson Gebel",
 			"phoneNumber": [
 				{}
 			],
 			"emailAddress": [
 				{}
 			]
+		},
+		{
+			"name": "Prénom Nom",
+			"phoneNumber": [
+				{
+					"telephone": null
+				}
+			],
+			"emailAddress": [
+				{
+					"email": null
+				}
+			],
+			"picture": null,
+			"url": null
 		}
 	]
 }
